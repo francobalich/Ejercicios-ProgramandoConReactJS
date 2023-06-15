@@ -1,7 +1,7 @@
 import ReactPng from './assets/react-logo.png'
 import './App.css'
 
-// Esto es un comentario
+// EEjemplo con desestructuranción
 const Component = ({num="0",name="test"}) => {
   return (
     <>
@@ -12,3 +12,5 @@ const Component = ({num="0",name="test"}) => {
   )
 }
 export default Component
+
+
